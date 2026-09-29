@@ -20,7 +20,7 @@ Prior to this process teams have used formal and informal documents to capture i
 
 | Term | Audience | Purpose | Location |
 |------|----------|-------------|----------|
-| Proposal | Implementers and stakeholders | Drives experimentation and development of a feature as an evolving and living document. Proivides visibility and alignment while enabling collaboration and feedback through the development cycle. | May live in the public or all partner shared proposal repositories. |
+| Proposal | Implementers and stakeholders | Drives experimentation and development of a feature as an evolving and living document. Provides visibility and alignment while enabling collaboration and feedback through the development cycle. | May live in the public or all partner shared proposal repositories. |
 | Specification | Implementers and experienced users | Provides a detailed, finalized, authoritative reference for the behavior of a feature. | May be maintained in team-specific locations or the shared public repository. In-progress specifications may also be maintained in private repositories. |
 | User Guide | End users | Explains how to use a feature or set of features. | May be maintained in team-specific locations; the default location is learn.microsoft.com. |
 | Samples | End users | Code examples and sample projects that demonstrate how to use a feature or set of features. | May be maintained in team-specific locations; the default location is the DirectX-Samples repository. |
